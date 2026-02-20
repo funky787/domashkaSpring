@@ -1,0 +1,3 @@
+library:
+  name: "Central City Library"
+  max-books: 100
